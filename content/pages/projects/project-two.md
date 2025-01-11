@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: The Fall of Icarus - Magazine Design.
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
