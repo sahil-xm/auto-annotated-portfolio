@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: The Fall of Icarus - Magazine Design.
 colors: colors-a
-date: ''
+date: '2021-12-07'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
