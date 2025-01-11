@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: "this is the portfolio of\_ \_ sahil mistry"
+    title: sahil mistry's design portfolio.
     subtitle: ''
     styles:
       self:
