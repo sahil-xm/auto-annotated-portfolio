@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: 'HI, I am sahil mistry'
+    title: 'HI, I am sahil mistry an aspiring creative from india'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
