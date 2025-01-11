@@ -4,10 +4,7 @@ title: The Fall of Icarus - Magazine Design.
 colors: colors-a
 date: '2025-01-07'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: My first ever attempt at designing a magazine.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
