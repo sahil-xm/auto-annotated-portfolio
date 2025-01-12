@@ -13,13 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-
-      Hi, I’m Sahil Mistry—a Designer and a CS Undergrad with 7+ Years of
-      Experience in Designing.
-
-
-
+    text: >
+      **Hi, I’m Sahil Mistry—a Designer and a CS Undergrad with 7+ Years of
+      Experience in Designing.**
     media:
       type: ImageBlock
       url: /images/about.jpg
